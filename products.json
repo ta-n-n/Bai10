@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "imageUri": "Scan Screen.png",
+      "brand": "Lauren's",
+      "productName": "Orange Juice",
+      "price": "₹ 149",
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "imageUri": "Rectangle 31.png",
+      "brand": "Baskin's",
+      "productName": "Skimmed Milk",
+      "price": "₹ 129",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "imageUri": "Rectangle 45.png",
+      "brand": "Marley's",
+      "productName": "Aloe Vera Lotion",
+      "price": "₹ 1249",
+      "quantity": 1
+    }
+  ]
+  
